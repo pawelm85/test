@@ -1,1 +1,2 @@
 to jest pierwsza linia tekstu
+druga linia tekstu
